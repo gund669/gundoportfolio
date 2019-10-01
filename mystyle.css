@@ -1,0 +1,70 @@
+body{
+    background: #CCC;
+}
+
+#Header a:hover{
+    color: #FFF;
+}
+
+#Header a{
+    padding: 10px;
+}
+
+#bg-img{
+    background: url('./images/background1.jpeg');
+    background-size:100%;
+    background-repeat: no-repeat;
+    min-height: 500px; 
+}
+
+#About{
+    margin-top: 200px;
+
+}
+#About .fa{
+    color: #FFF;
+}
+
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+
+#About hr{
+    border-width:2px;
+    margin-right: 06px;
+}
+
+#Skills span{
+    padding: 10px 20px 10px 20px;
+}
+
+#Skills hr{
+    border-width:2px;
+    margin-right: 06px;
+}
+
+footer {
+    font-size: 12px;
+    margin-bottom: 12px;
+    font-style: italic;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 1px;
+    background-color: rgb(0, 153, 0); /* The Fallback */
+    background-color: rgba(0, 153, 0, 0.70);
+    margin: 10px 400px;
+    border-radius: 1px;
+  }
+
+
+
+  #projects span{
+    padding: 10px 20px 10px 20px;
+  }
+
+  #projects hr{
+    border-width:2px;
+    margin-right: 06px;
+
+  }
+
