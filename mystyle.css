@@ -68,3 +68,19 @@ footer {
 
   }
 
+  #projects .card{
+      border-top: 3px solid red;
+  }
+
+
+#contact span{
+    padding: 10px 20px 10px 20px;
+
+}
+
+#contact hr{
+    border-width:2px;
+    margin-right: 06px;         
+
+}
+
